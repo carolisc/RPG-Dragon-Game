@@ -1,2 +1,3 @@
 # rpg-dragon-game
-A basic project to learn JavaScript.
+
+Play it here: https://rpg-dragon-game-1ijcctnox-carolisc.vercel.app/
